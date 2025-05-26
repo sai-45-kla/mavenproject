@@ -39,7 +39,7 @@
             <li><strong>Learn DevOps Methodology and Frame-work </strong></li>
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
-            <li><strong>Join withus and thanks for choosing devops course</strong></li>
+            <li><strong>Join withus and thanks for choosing devops course along with the PYTHON</strong></li>
             <li><b>@@@ALKA pichi puk dana I love youuu barre</b></li>
         </ul>
     </div>
